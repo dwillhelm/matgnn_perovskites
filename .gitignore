@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,linux,pycharm
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,linux,pycharm
 
+# my own ignores
+data/dgl_datasets/* 
+
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
