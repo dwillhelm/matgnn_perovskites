@@ -14,6 +14,6 @@ module load
 
 
 # ToDo: 
-- [ ] test simple model on GRACE.
-- [ ] data fetcher code (perovskites dataset from MatMiner ???).
+- [x] data fetcher code (perovskites dataset from MatMiner ???).
+- [x] test simple model on GRACE.
 - [x] Make ToDo. 
